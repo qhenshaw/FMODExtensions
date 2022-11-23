@@ -3,6 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE.md)
 
 A collection of scripts useful for playing FMOD audio in Unity.
+```
+This package requires FMOD Unity to be installed.
+```
 
 ## System Requirements
 Unity 2021.3+. Will likely work on earlier versions but this is the version I tested with.
